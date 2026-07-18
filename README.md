@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Welcome to Velora Digital
 
-<!--
-**veloraadev/veloraadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Building Modern Digital Experiences
 
-Here are some ideas to get you started:
+Velora Digital is a web development agency focused on creating modern, responsive, and scalable websites that help businesses grow online.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Services
+
+- 🌐 Company Profile Website
+- ⚡ Landing Page
+- 💼 Business Website
+- 🛒 E-Commerce
+- 📊 Dashboard & Admin Panel
+- 🎨 UI/UX Design
+- 🔍 SEO Optimization
+
+---
+
+## 💻 Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- React
+- Next.js
+- Tailwind CSS
+- Node.js
+- Express.js
+- Laravel
+- PostgreSQL
+- MySQL
+- Firebase
+
+---
+
+## 🌎 Website
+
+https://velora.synergize.co
+
+---
+
+## 📱 Social Media
+
+Instagram:
+https://instagram.com/veloraa.dev
+
+---
+
+## 🎯 Our Mission
+
+Helping businesses grow through modern, fast, and professional websites.
+
+---
+
+Thanks for visiting our profile! 🚀
