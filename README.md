@@ -68,3 +68,14 @@ Building modern web applications, digital products, and scalable user experience
 ✨ Company Profile Website
 
 ✨ Dashboard Analytics
+
+## 📊 GitHub Stats
+
+GitHub Stats
+
+Top Languages
+
+Contribution Graph
+
+GitHub Streak
+
